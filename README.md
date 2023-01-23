@@ -9,4 +9,7 @@ Join Discord : [Xova Team](https://discord.gg/4b7SzDTzmc)
 แจก UI เนื่องจากเจ้าของ Switch Hub บิด จ่ายตังค์ไม่ครบ จ่ายมาแค่ 1000 บาท จ้างมาทั้งหมด 2000 บาท
 แล้วทักมาขู่แจ้งความ โคตร Cringe
 
+สคริปต์ UI นี้เป็น Open Source ไม่มี Obfuscate ทุกคน สามารถนำไปใช้เป็น Hub ของตัวเองได้
+เพราะเจ้าของ SixZens เป็นคนแจกฟรี ให้ทุกคนไปใช้เป็น Hub ของตัวเอง :)
+
 ![image](https://user-images.githubusercontent.com/52291809/214003108-2d260109-9eee-4580-9fdb-c54b48cec05d.png)
